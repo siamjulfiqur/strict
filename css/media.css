@@ -1,0 +1,285 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  /* header start  */
+.menu {
+    padding-top: 10px;
+}
+.bbt {
+    margin: 9% 32% 0 32%;
+}
+.bwrapper {
+    padding: 25% 0 25% 0;
+}
+/* design start  */
+.dpra {
+    padding: 0 0 40px 0;
+}
+.dh2 {
+    padding: 40px 0 20px 0;
+}
+
+  /* icon  */
+  .itext p {
+    padding: 0px 10px 30px 10px;
+}
+.itext h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+    padding: 20px 0 15px 0;
+}
+.icon_img img {
+    width: 180px;
+}
+.icon {
+    padding: 40px 0 40px 0;
+}
+  /* work start  */
+  .border_items {
+    margin: -182px 0 40px;
+    opacity: 0;
+}
+.border_items p {
+    font-size: 18px;
+    margin: -35px 30px 0 0;
+}
+.wimg {
+    padding: 50px 0 30px 0;
+}
+.wkwraper h2 {
+    font-weight: 700;
+    font-size: 27px;
+    padding-bottom: 10px;
+}
+.wkwraper {
+    padding-top: 40px;
+}
+/* contact start 1 */
+.fomr1{
+    margin: 0 30px 30px 30px
+
+    
+}
+
+.fomr2{
+    margin: 0 30px 30px 30px
+}
+
+.fomr3{
+    margin: 0 30px 30px 30px
+}
+.check {
+    margin-left: 30px;
+}
+/* footer start  */
+.fpra p {
+    font-size: 14px;
+}
+.ficon ul li a {
+    padding-left: 15px;
+}
+                    
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/* header start  */
+.menu {
+    padding-top: 25px;
+}
+.bbt {
+    margin: 9% 38% 0 38%;
+}
+/* design start  */
+.dpra {
+    padding: 0 0 80px 0;
+}
+  /* icon  */
+  .itext p {
+    padding: 0 100px 30px 100px
+}
+.itext h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    padding: 20px 0 15px 0;
+}
+.icon_img img {
+    width: 180px;
+}
+  /* work start  */
+  .border_items {
+    margin: -328px 0 40px;
+    opacity: 0;
+}
+.border_items p {
+    font-size: 18px;
+    margin: -35px 30px 0 0;
+}
+.wimg {
+    padding: 60px 0 50px 0;
+}
+/* contact start 1 */
+.fomr1{
+    margin: 0 100px 40px 100px
+
+    
+}
+
+.fomr2{
+    margin: 0 100px 40px 100px
+}
+
+.fomr3{
+    margin: 0 100px 35px 100px;
+}
+.check {
+    margin-left: 100px;
+}
+    
+}
+
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/* header start  */
+.menu {
+    padding-top: 25px;
+}
+.bbt {
+    margin: 9% 40% 0 40%;
+}
+/* design start  */
+.dpra {
+    padding: 0 100px 80px 100px;
+}
+  /* icon  */
+.itext p {
+    padding: 0 0px 0 0px;
+}
+.itext h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    padding: 20px 0 15px 0;
+}
+  /* work start  */
+.border_items {
+    margin: -139px 0 30px;
+    opacity: 0;
+}
+.border_items p {
+    font-size: 18px;
+    margin: -35px 30px 0 0;
+}
+.wimg {
+    padding: 70px 0 60px 0;
+}
+/* contact start 1 */
+.fomr1{
+    margin: 0 200px 40px 200px
+
+    
+}
+
+.fomr2{
+    margin: 0 200px 40px 200px
+}
+
+.fomr3{
+    margin: 0 200px 35px 200px;
+}
+.check {
+    margin-left: 200px;
+}
+
+
+}
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* banner start  */
+.bottom {
+    margin: 0 39% 0 37%;
+}
+/* design start  */
+.dpra {
+    padding: 0 160px 80px 160px;
+}
+/* icon  */
+.itext p {
+    padding: 0 0px 0 0px;
+}
+.itext h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    padding: 20px 0 15px 0;
+}
+/* work start  */
+.border_items {
+    margin: -193px 0 30px;
+    opacity: 0;
+}
+/* contact start 1 */
+.fomr1{
+    margin: 0 300px 40px 300px;
+
+    
+}
+
+.fomr2{
+    margin: 0 300px 40px 300px;
+}
+
+.fomr3{
+    margin: 0 300px 35px 300px;
+}
+.check {
+    margin-left: 300px;
+}
+
+}
+
+
+ /* Extra large devices (large desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) {
+
+/* design start  */
+.dpra {
+    padding: 0 160px 80px 160px;
+}
+/* icon  */
+.itext p {
+    padding: 0 25px 0 25px;
+}
+/* work start  */
+.border_items {
+    margin: -233px 0 30px;
+    opacity: 0;
+}
+/* contact start 1 */
+.fomr1{
+    margin: 0 320px 40px 320px;
+
+    
+}
+
+.fomr2{
+    margin: 0 320px 40px 320px;
+}
+
+.fomr3{
+    margin: 0 320px 40px 320px;
+}
+.check {
+    margin-left: 320px;
+}
+
+ }
+
+ /* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+}
+
